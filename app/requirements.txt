@@ -71,4 +71,4 @@ python-dateutil
 pytz
 pyyaml
 packaging
-itsdangerous
+itsdangerouscx 
